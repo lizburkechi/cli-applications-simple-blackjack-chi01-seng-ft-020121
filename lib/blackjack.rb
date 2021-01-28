@@ -51,6 +51,6 @@ def invalid_command
 # get every test to pass before coding runner below #
 #####################################################
 
-#def runner
+def runner
   # code runner here
-#end
+end
